@@ -1,4 +1,4 @@
-#How to start?
+# How to start?
 1. Create react workspace:
 
     > npm --v (Check your node)
